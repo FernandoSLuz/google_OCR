@@ -1,6 +1,23 @@
 # python virtualenv
 env/
 
+# environment settings
+.env/
+
+# environment settings
+.env/*
+
+# python virtualenv
+env/*
+
+# python virtualenv
+env
+
+# environment settings
+.env
+
+
+
 # vscode settings
 .vscode/
 
@@ -16,5 +33,3 @@ __pycache__
 # pycache
 .__pycache__/
 
-# environment settings
-.env
